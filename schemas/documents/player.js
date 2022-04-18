@@ -4,6 +4,11 @@ export default {
   name: "player",
   fields: [
     {
+      title: "Slug",
+      name: "slug",
+      type: "string",
+    },
+    {
       title: "Name",
       name: "name",
       type: "string",
